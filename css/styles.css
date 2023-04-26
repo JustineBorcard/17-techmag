@@ -8,3 +8,23 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header{
+  background: url(../img/bg_header.png);
+}
+
+.box-title{
+  background: black;
+  padding: 10px 30px;
+  margin-bottom: 30px;
+
+
+}
+
+
+
+
+
+
+
+
