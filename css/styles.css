@@ -9,16 +9,30 @@ img {
   max-width: 100%;
 }
 
-header{
+header {
   background: url(../img/bg_header.png);
+  padding: 30px;
 }
 
-.box-title{
+.box-title {
   background: black;
   padding: 10px 30px;
   margin-bottom: 30px;
+}
 
 
+
+.cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: black;
+  color: white;
+  margin: 15px;
+  Padding: 15px 30px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 
