@@ -26,8 +26,6 @@ header {
   text-align: center;
 }
 
-
-
 .cta {
   background: black;
   color: white;
@@ -47,6 +45,47 @@ header {
   color: black;
   background: white;
 }
+
+.section {
+  padding: 40px;
+  text-align: center;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.section-light {
+  background: white;
+}
+
+.disquette {
+  max-width: 40px;
+}
+
+.section-dark {
+  background: black;
+}
+
+.card{
+  background: white;
+  color:black;
+  padding: 38px;
+  margin-bottom: 28px;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+
+}
+
+h2{
+  color: white;
+  text-align: center;
+}
+
+.oiseau{
+  max-width: 105px;
+}
+
 
 
 
