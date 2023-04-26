@@ -12,27 +12,40 @@ img {
 header {
   background: url(../img/bg_header.png);
   padding: 30px;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 .box-title {
   background: black;
   padding: 10px 30px;
   margin-bottom: 30px;
+  color: white;
+}
+
+.slogan {
+  text-align: center;
 }
 
 
 
 .cta {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   background: black;
   color: white;
   margin: 15px;
   Padding: 15px 30px;
   border-radius: 20px;
   text-decoration: none;
-  font-family: 'Space Grotesk', sans-serif;
+}
+
+.cta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cta-light {
+  color: black;
+  background: white;
 }
 
 
